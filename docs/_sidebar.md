@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](/docs)
-- [Projetos](/docs/Projetos/Projetos.md)
+- [Projetos](/docs/Projeto/Projeto.md)
 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](/docs/Modelagem/2.Modelagem.md)
